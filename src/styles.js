@@ -1,7 +1,7 @@
-import {createGlobalStyle} from "styled-components";
+import { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyles = createGlobalStyle`
-     *{
+     * {
          margin: 0;
          padding: 0;
          box-sizing: border-box;
@@ -12,7 +12,7 @@ export const GlobalStyles = createGlobalStyle`
          max-height: 100vh;
          width: 100%;
          height: 100%;
-         font-size: 60%;
+         font-size: 59%;
          font-family: "Poppins", system-ui;
          @media (max-width: 900px){
              font-size: 53%;
