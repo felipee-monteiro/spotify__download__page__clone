@@ -7,6 +7,7 @@ export const MenuWrapper = styled(MenuContainer)`
   align-items: initial;
   position: fixed;
   background-color: black;
+  top: 0;
   right: 0;
   z-index: 2;
   height: 100vh;
