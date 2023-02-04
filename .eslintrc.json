@@ -15,8 +15,5 @@
     "plugins": [
         "react"
     ],
-    "rules": {
-        "quotes": "error",
-        "semi": "error"
-    }
+    "rules": {}
 }
