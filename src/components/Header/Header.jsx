@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React from 'react';
 import { MenuItemsWrapper, MenuLink, LigthLinks } from './styles';
 import { DividerTall } from '@styled-icons/fluentui-system-regular/DividerTall';
 import { Menu } from '@styled-icons/boxicons-regular/Menu';

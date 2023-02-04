@@ -1,3 +1,4 @@
+import React from 'react';
 import { DevicesWrapper, Wrapper, Title, AnchorsSection } from './styles.js';
 import { CircleFill } from '@styled-icons/bootstrap/CircleFill';
 

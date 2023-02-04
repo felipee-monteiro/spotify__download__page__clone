@@ -1,5 +1,5 @@
-import 'animate.css';
 import React from 'react';
+import 'animate.css';
 import { CloseOutline } from '@styled-icons/evaicons-outline/CloseOutline';
 import { MenuWrapper, MenuLinks } from './styles';
 import { DividerTall } from '@styled-icons/fluentui-system-regular/DividerTall';

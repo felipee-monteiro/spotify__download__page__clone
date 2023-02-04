@@ -14,9 +14,7 @@ function Hero () {
           <SubTitle>
             Escute milhões de músicas e podcasts no seu dispositivo.
           </SubTitle>
-          <DownloadButton href="#">
-            Baixar
-          </DownloadButton>
+          <DownloadButton href='#'>Baixar</DownloadButton>
         </SubWrapper>
       </Wrapper>
     </>
